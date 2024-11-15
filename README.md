@@ -45,7 +45,7 @@ python AutoEnter_v1.0.py
 欢迎贡献代码！请先 Fork 本仓库，然后创建您的分支，完成后提交 Pull Request。
 ```angular2html
 # 克隆项目到本地
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Abbykawaii/AutoEnter-for-Mac.git
 
 # 创建新的分支
 git checkout -b feature/your-feature
