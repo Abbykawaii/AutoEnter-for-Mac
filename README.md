@@ -24,7 +24,7 @@
 ## 安装&&使用  
 ### 1. 克隆仓库
 ```angular2html
-git clone https://github.com/yourusername/yourproject.git
+git clone https://github.com/Abbykawaii/AutoEnter-for-Mac.git
 ```
 ### 2. 进入项目文件夹
 ```angular2html
