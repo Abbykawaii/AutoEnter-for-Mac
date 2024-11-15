@@ -1,0 +1,4 @@
+([('AutoEnter_v1.0',
+   '/Users/abby/Library/Mobile '
+   'Documents/com~apple~CloudDocs/Mac/projects/python/AutoEnter_v1.0/dist/AutoEnter_v1.0',
+   'EXECUTABLE')],)
